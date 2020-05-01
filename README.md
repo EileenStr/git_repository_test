@@ -1,5 +1,5 @@
 # git_repository_test
-My reproducible research workshop RStudio and Git test repository
+My reproducible research workshop RStudio and Git test repository.
 # RR project in RStudio
 RR workshop RStudio + Git repository
 
